@@ -106,8 +106,8 @@ I'm available for:
 
 ### 📬 Contact Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-@hodlwarden-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hodlwarden)
-[![Email](https://img.shields.io/badge/Email-hodlwarden@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hodlwarden@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-@peng.0815-26A5E4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1458894551598235739)
+[![Email](https://img.shields.io/badge/Email-andreas.larsen.062410@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreas.larsen.062410@gmail.com)
 
 ---
 
