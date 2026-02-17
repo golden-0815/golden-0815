@@ -2,7 +2,7 @@
 
 # 👋 Hi, there
 
-### 🚀 Smart Contract & Web3 Integration
+### 🚀 Smart Contract & Web3 Integration Engineer
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-I'm full stack & blockchain developer specializing in smart contract development and blockchain infrastructure. My expertise includes:
+I'm blockchain engineer specializing in smart contract development and web3 integration. My expertise includes:
 
 - 📜 **Smart Contract Engineering**: Designing and deploying secure, optimized on-chain programs across multiple networks
 - 🔗 **Multi-Chain Development**: Extensive experience with Solana, Ethereum, and all EVM-compatible chains, Tezos, BNB Chain
