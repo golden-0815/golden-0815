@@ -2,7 +2,7 @@
 
 # 👋 Hi, there
 
-### 🚀 Full Stack & Blockchain Developer
+### 🚀 Smart Contract & Web3 Integration
 
 </div>
 
